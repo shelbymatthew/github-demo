@@ -1,2 +1,1 @@
-# github-demo
-Demoing how to create new repo
+# github-demo Demoing how to create new repo
